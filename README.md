@@ -23,7 +23,7 @@ The **SQL Injection** allowed us to retrieve information from the database, incl
 
 #### Screenshot of Exploit:
 
-![SQL Injection Screenshot](images/BUG_PT_Parna_Raya.png)
+![SQL Injection Screenshot](BUG_PT_Parna_Raya.png)
 
 ### Retrieved Data:
 
